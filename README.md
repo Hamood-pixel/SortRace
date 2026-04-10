@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.icons8.com/color/96/visual-studio-2022.png" alt="MFC Logo" width="80">
   <h1>📊 SortRace: MFC Parallel Benchmarking</h1>
   <p><strong>A Windows-Native GUI for Multithreaded vs. Sequential Algorithm Analysis</strong></p>
   
